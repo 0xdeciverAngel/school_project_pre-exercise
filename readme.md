@@ -9,3 +9,5 @@
 - user 登入 安全性不足 ，沒有用上 cookie or session
 - 有多次重覆送出分數的可能(沒有寫檢查)
 - 送出之後沒有重新導向
+## demo
+- https://www.youtube.com/watch?v=y2Ko8DwpPls
